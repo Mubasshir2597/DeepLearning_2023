@@ -1,2 +1,2 @@
-# DeepLearning_2023
+# Deep Learning
 Deep Learning implementations
